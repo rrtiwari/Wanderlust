@@ -34,8 +34,11 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ node app.js
 
 # ScreenShots
+<!-- ## SignIp Page -->
+![SignIn Page](photo1.png)
 <!-- ## Home Page -->
-![Home Page](public/ss-home.png)
+![Home Page](photo2.png)
 ---
-<!-- ## Signup Page -->
-![SignIn Page](project-3/photo1.png)
+<!-- ## Add Listing Page -->
+![Home Page](photo3.png)
+---
