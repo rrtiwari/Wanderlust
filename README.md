@@ -1,4 +1,4 @@
-# Wanderlust 😋
+# StayBreeze 😋
 
 Introducing "Wanderlust 😋" short-term housing rentals web application crafted with the powerful MERN stack—MongoDB, Express.js, EJS, and Node.js. This innovative platform seamlessly integrates the best of each technology to provide users with a Wonderful and efficient travel experience.
 
